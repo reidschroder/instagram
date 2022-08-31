@@ -8,6 +8,7 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 import { getAuth } from 'firebase/auth'
+// Not currently running. need to find the syntax for most revent firebase Version
 // import { getAuth } from "firebase/auth";
 // Follow this pattern to import other Firebase services
 // import { } from 'firebase/<service>';
