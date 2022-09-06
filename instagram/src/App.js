@@ -53,7 +53,7 @@ function App() {
   // const [viewwhichuser, setViewWhichUser] = useState('');
   // const [viewsinglepost, setViewSinglePost] = useState(false);
   // const [singlepostid, setSinglePostId] = useState('');
-  const [lang] = useState(locale);
+  // const [lang] = useState(locale);
 
 
 
